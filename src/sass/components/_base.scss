@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Lora:wght@600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Public+Sans:wght@300;400;700&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-family: "Public Sans", sans-serif;
+  font-size: 62.5%;
+  scroll-behavior: smooth;
+}
+
+.app {
+  background-color: rgb(44, 197, 146);
+  height: 100vh;
+}
